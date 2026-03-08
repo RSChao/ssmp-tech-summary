@@ -1,0 +1,9 @@
+===============================
+Group ID: lovers
+    ID: tetraflare
+    Name Dragon's Fire explosion
+    Ultimate: false
+    Description: 
+        Spawn several fireballs around you.
+    Cooldown: 360000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: gomu
+    ID: gomu_no_mi
+    Name Gomu no mi
+    Ultimate: false
+    Description: 
+        Gomu no mi
+    Cooldown: 33000
+===============================

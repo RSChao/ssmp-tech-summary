@@ -1,0 +1,9 @@
+===============================
+Group ID: fabri
+    ID: free_pearl
+    Name Free pearl
+    Ultimate: false
+    Description: 
+        Free pearl
+    Cooldown: 60000
+===============================

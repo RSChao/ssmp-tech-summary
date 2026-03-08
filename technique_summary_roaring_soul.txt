@@ -1,0 +1,9 @@
+===============================
+Group ID: roaring_soul
+    ID: geno
+    Name Dreaded Darkness
+    Ultimate: false
+    Description: 
+        Teleport behind a target and apply blindness.
+    Cooldown: 180000
+===============================

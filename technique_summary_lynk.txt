@@ -1,0 +1,9 @@
+===============================
+Group ID: lynk
+    ID: lapare
+    Name Las manos arriba, las manos abajo, y te comes el muro
+    Ultimate: false
+    Description: 
+        Throw a player into a wall.
+    Cooldown: 300000
+===============================

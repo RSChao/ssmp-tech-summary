@@ -1,0 +1,9 @@
+===============================
+Group ID: tono
+    ID: lewis
+    Name Lewis de cinemática formulada
+    Ultimate: true
+    Description: 
+        Ultimate: Lewis
+    Cooldown: 7200000
+===============================

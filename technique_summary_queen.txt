@@ -1,0 +1,9 @@
+===============================
+Group ID: queen
+    ID: bless
+    Name Blessing of the Queen
+    Ultimate: false
+    Description: 
+        Remove harmful effects and grant buffs.
+    Cooldown: 300000
+===============================

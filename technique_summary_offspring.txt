@@ -1,0 +1,9 @@
+===============================
+Group ID: offspring
+    ID: hellfire
+    Name Hellfire
+    Ultimate: false
+    Description: 
+        Launch determination projectiles repeatedly.
+    Cooldown: 180000
+===============================

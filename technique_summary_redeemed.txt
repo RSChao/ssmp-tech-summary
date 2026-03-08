@@ -1,0 +1,9 @@
+===============================
+Group ID: redeemed
+    ID: deltateodiodos
+    Name Blessed Chains
+    Ultimate: false
+    Description: 
+        Teleport and buff a nearby player repeatedly.
+    Cooldown: 300000
+===============================

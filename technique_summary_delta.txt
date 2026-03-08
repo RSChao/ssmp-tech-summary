@@ -1,0 +1,9 @@
+===============================
+Group ID: delta
+    ID: wind_sword
+    Name Wind sword
+    Ultimate: false
+    Description: 
+        Wind sword
+    Cooldown: 30000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: griffon
+    ID: slizing_ambush
+    Name Slizing Ambush
+    Ultimate: false
+    Description: 
+        Damage and fling nearby entities.
+    Cooldown: 60000
+===============================

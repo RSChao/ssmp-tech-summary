@@ -1,0 +1,9 @@
+===============================
+Group ID: college_of_swords
+    ID: etherealblade
+    Name Ethereal Blade
+    Ultimate: false
+    Description: 
+        Teleport behind a target and create explosions.
+    Cooldown: 60000
+===============================

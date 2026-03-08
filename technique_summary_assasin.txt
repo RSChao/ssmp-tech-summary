@@ -1,0 +1,9 @@
+===============================
+Group ID: assasin
+    ID: antiShoot
+    Name Assassin's Anti-Shoot Technique
+    Ultimate: false
+    Description: 
+        Remove nearby projectiles.
+    Cooldown: 180000
+===============================

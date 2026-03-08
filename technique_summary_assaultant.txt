@@ -1,0 +1,9 @@
+===============================
+Group ID: assaultant
+    ID: highJump
+    Name High Jump Technique
+    Ultimate: false
+    Description: 
+        Launch forward or enable pro flight.
+    Cooldown: 10000
+===============================

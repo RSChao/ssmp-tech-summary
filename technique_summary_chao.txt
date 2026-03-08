@@ -1,0 +1,9 @@
+===============================
+Group ID: chao
+    ID: food
+    Name Abundance of Food
+    Ultimate: false
+    Description: 
+        Genera comida gratis
+    Cooldown: 60000
+===============================

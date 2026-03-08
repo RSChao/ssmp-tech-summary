@@ -1,0 +1,9 @@
+===============================
+Group ID: master_of_trials
+    ID: floor_summon
+    Name Floor Summoner
+    Ultimate: true
+    Description: 
+        Summon a mob floor according to player level.
+    Cooldown: 600000
+===============================

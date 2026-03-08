@@ -1,0 +1,9 @@
+===============================
+Group ID: combat_will
+    ID: combat_will_time_stop
+    Name Combat Will: Time Stop
+    Ultimate: false
+    Description: 
+        Stops all nearby entities in place for 5 seconds.
+    Cooldown: 180000
+===============================

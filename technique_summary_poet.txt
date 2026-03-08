@@ -1,0 +1,9 @@
+===============================
+Group ID: poet
+    ID: dt
+    Name Runic Hellfire
+    Ultimate: false
+    Description: 
+        Launch determination projectiles.
+    Cooldown: 120000
+===============================

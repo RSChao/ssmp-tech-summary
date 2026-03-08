@@ -1,0 +1,9 @@
+===============================
+Group ID: dario
+    ID: swift_attack
+    Name Swift Attack
+    Ultimate: false
+    Description: 
+        Swift Attack
+    Cooldown: 300000
+===============================

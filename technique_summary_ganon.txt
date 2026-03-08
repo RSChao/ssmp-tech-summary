@@ -1,0 +1,9 @@
+===============================
+Group ID: ganon
+    ID: fsmash
+    Name Claymore Smash
+    Ultimate: false
+    Description: 
+        Claymore Smash
+    Cooldown: 300000
+===============================

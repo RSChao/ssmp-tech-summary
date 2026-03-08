@@ -1,0 +1,9 @@
+===============================
+Group ID: musician
+    ID: buff
+    Name Musician's Motivation Melody
+    Ultimate: false
+    Description: 
+        Buff nearby entities.
+    Cooldown: 300000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: nocilla
+    ID: acrobacias
+    Name Acrobatics
+    Ultimate: false
+    Description: 
+        Impulsa al usuario y le da jump boost y velocidad
+    Cooldown: 60000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: flower
+    ID: blizzard
+    Name Petal Blizzard
+    Ultimate: false
+    Description: 
+        Petal Blizzard
+    Cooldown: 180000
+===============================

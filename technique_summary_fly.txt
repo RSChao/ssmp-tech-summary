@@ -1,0 +1,9 @@
+===============================
+Group ID: fly
+    ID: fly_me_to_the_moon
+    Name Fly me to the moon
+    Ultimate: false
+    Description: 
+        Propulsa al jugador
+    Cooldown: 10000
+===============================

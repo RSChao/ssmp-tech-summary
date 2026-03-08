@@ -1,0 +1,9 @@
+===============================
+Group ID: jevil
+    ID: spade
+    Name Spade Bomb
+    Ultimate: false
+    Description: 
+        Spade Bomb
+    Cooldown: 300000
+===============================

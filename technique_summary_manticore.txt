@@ -1,0 +1,9 @@
+===============================
+Group ID: manticore
+    ID: barbas
+    Name Thousand Poison Barbs
+    Ultimate: false
+    Description: 
+        Launch a volley of wither arrows.
+    Cooldown: 180000
+===============================

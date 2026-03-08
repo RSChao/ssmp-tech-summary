@@ -1,0 +1,9 @@
+===============================
+Group ID: exsolig
+    ID: sonicboom
+    Name Sound Ray
+    Ultimate: false
+    Description: 
+        Shoot a sonic particle ray to target.
+    Cooldown: 180000
+===============================

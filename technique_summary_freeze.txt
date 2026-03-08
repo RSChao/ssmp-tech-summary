@@ -1,0 +1,9 @@
+===============================
+Group ID: freeze
+    ID: blizzard_ice
+    Name Ice Barrage
+    Ultimate: false
+    Description: 
+        Launches ice arrows that slow enemies on hit.
+    Cooldown: 180000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: puppet
+    ID: patron_chain
+    Name Patron's Chains
+    Ultimate: false
+    Description: 
+        Teleport and damage a nearby player repeatedly.
+    Cooldown: 240000
+===============================

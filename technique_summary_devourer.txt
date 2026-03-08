@@ -1,0 +1,9 @@
+===============================
+Group ID: devourer
+    ID: deltateodio
+    Name Nightmare Chains
+    Ultimate: false
+    Description: 
+        Teleport target repeatedly and apply wither.
+    Cooldown: 300000
+===============================

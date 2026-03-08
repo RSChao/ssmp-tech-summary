@@ -1,0 +1,9 @@
+===============================
+Group ID: god_of_light
+    ID: light_pull
+    Name Light Pull
+    Ultimate: false
+    Description: 
+        Pull targets into orbit and damage.
+    Cooldown: 20000
+===============================

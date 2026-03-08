@@ -1,0 +1,9 @@
+===============================
+Group ID: oblivion_engine
+    ID: oblivion_will
+    Name Oblivion's Will
+    Ultimate: false
+    Description: 
+        Conqueror and Armor boost for 10 seconds.
+    Cooldown: 360000
+===============================

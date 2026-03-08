@@ -1,0 +1,9 @@
+===============================
+Group ID: berserker
+    ID: rage
+    Name Berserker's Rage
+    Ultimate: false
+    Description: 
+        Temporary high strength.
+    Cooldown: 240000
+===============================

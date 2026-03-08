@@ -1,0 +1,9 @@
+===============================
+Group ID: spirit
+    ID: spirit_manifest
+    Name Spirit Manifestation
+    Ultimate: false
+    Description: 
+        Manifests a spirit that carries the wrath of the user
+    Cooldown: 900000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: master_of_hearts
+    ID: heartcannon
+    Name Heart cannon
+    Ultimate: false
+    Description: 
+        Daña a jugadores en el punto de mira del usuario.
+    Cooldown: 180000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: oblivion_depleter
+    ID: breath
+    Name Oblivions breath
+    Ultimate: false
+    Description: 
+        Heals and gives Origin 1 extra pop.
+    Cooldown: 600000
+===============================

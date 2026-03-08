@@ -1,0 +1,9 @@
+===============================
+Group ID: tickle
+    ID: tickle_spawner
+    Name Tickle Spawner
+    Ultimate: false
+    Description: 
+        Tickle Spawner
+    Cooldown: 60000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: chosen_one
+    ID: weird_arrows
+    Name Ráfaga de locura
+    Ultimate: false
+    Description: 
+        Fire potion-effect arrows.
+    Cooldown: 180000
+===============================

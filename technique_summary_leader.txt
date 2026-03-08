@@ -1,0 +1,9 @@
+===============================
+Group ID: leader
+    ID: soraingskeis
+    Name Soaring Skies
+    Ultimate: false
+    Description: 
+        Propel forward or enable pro flight.
+    Cooldown: 10000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: smasher
+    ID: punetaso
+    Name Heavy Fist
+    Ultimate: false
+    Description: 
+        Temporary crit damage flag.
+    Cooldown: 240000
+===============================

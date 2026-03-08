@@ -1,0 +1,9 @@
+===============================
+Group ID: whacka_abyss
+    ID: chichonesmuchosxd
+    Name Sacrificio de Guaka
+    Ultimate: false
+    Description: 
+        Sacrifice to get Whacka bumps.
+    Cooldown: 1200000
+===============================

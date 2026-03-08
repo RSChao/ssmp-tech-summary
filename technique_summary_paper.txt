@@ -1,0 +1,9 @@
+===============================
+Group ID: paper
+    ID: paper_spawn
+    Name Paper Spawn
+    Ultimate: false
+    Description: 
+        Paper Spawn
+    Cooldown: 60000
+===============================

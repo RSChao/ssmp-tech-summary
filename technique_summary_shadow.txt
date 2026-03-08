@@ -1,0 +1,10 @@
+===============================
+Group ID: shadow
+    ID: shadow_dash
+    Name Shadow Dash
+    Ultimate: false
+    Description: 
+        Proporciona un pequeño salto
+        Daña a un jugador cercano
+    Cooldown: 420000
+===============================

@@ -1,0 +1,9 @@
+===============================
+Group ID: oblivion_aider
+    ID: oblivion_aider_buff
+    Name Oblivion's Aid
+    Ultimate: false
+    Description: 
+        
+    Cooldown: 120000
+===============================

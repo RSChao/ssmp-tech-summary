@@ -1,0 +1,9 @@
+===============================
+Group ID: peru
+    ID: lil_poison_darts
+    Name Lil' poison darts
+    Ultimate: false
+    Description: 
+        Lil' poison darts
+    Cooldown: 180000
+===============================

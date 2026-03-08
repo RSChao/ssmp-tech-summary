@@ -1,0 +1,9 @@
+===============================
+Group ID: Familiar_love
+    ID: unded_cat
+    Name Poder del gato inmortal
+    Ultimate: false
+    Description: 
+        Restore C-heart from inventory/offhand or remove cooldown.
+    Cooldown: 1200000
+===============================

@@ -1,0 +1,10 @@
+===============================
+Group ID: magician
+    ID: poof
+    Name Dimensional Breach
+    Ultimate: false
+    Description: 
+        Desvanece al usuario un tiempo
+        otorga espectador
+    Cooldown: 300000
+===============================

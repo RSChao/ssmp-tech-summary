@@ -1,0 +1,9 @@
+===============================
+Group ID: end_boss
+    ID: flash
+    Name Black Flash
+    Ultimate: false
+    Description: 
+        Temporarily set flash damage flag.
+    Cooldown: 240000
+===============================

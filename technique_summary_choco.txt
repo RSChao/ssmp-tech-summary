@@ -1,0 +1,9 @@
+===============================
+Group ID: choco
+    ID: make_me_some_choco
+    Name Make me some Choco
+    Ultimate: false
+    Description: 
+        Make me some Choco
+    Cooldown: 60000
+===============================
