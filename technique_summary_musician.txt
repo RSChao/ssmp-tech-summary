@@ -7,3 +7,32 @@ Group ID: musician
         Buff nearby entities.
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: musician ===
+===============================
+Group ID: musician
+    ID: buff
+    Name Musician's Motivation Melody
+    Ultimate: false
+    Description: 
+        Buff nearby entities.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: musician
+    ID: debuff
+    Name Musician's Dissonance Melody
+    Ultimate: false
+    Description: 
+        Debuff nearby entities.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: musician
+    ID: wolves
+    Name Musician's Wolf Call
+    Ultimate: false
+    Description: 
+        Spawn wolves.
+    Cooldown: 300000
+===============================
+

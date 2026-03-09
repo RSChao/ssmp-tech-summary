@@ -7,3 +7,41 @@ Group ID: chaos_wielder
         Grant chaos-group buffs and strip resistance of nearby players.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: chaos_wielder ===
+===============================
+Group ID: chaos_wielder
+    ID: chaobuff
+    Name Chaos Buff
+    Ultimate: false
+    Description: 
+        Grant chaos-group buffs and strip resistance of nearby players.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: chaos_wielder
+    ID: chaos_heartbeat
+    Name Chaos Heartbeat
+    Ultimate: false
+    Description: 
+        Spawn three pulse waves around you.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: chaos_wielder
+    ID: reset_cooldown_chaos
+    Name Chaos Reboot
+    Ultimate: false
+    Description: 
+        Reset many abyss & fruit cooldowns.
+    Cooldown: 3000000
+===============================
+===============================
+Group ID: chaos_wielder
+    ID: dance_of_hearts
+    Name Dance of the Hearts of Good and Evil
+    Ultimate: true
+    Description: 
+        Ultimate ritual that gathers and obliterates nearby players.
+    Cooldown: 3600000
+===============================
+

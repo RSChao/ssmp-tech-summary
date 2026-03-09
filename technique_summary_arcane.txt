@@ -7,3 +7,32 @@ Group ID: arcane
         Shoot 4 wither skulls forward.
     Cooldown: 120000
 ===============================
+=== Technique Summary for group: arcane ===
+===============================
+Group ID: arcane
+    ID: lostsouls
+    Name Lost Souls
+    Ultimate: false
+    Description: 
+        Shoot 4 wither skulls forward.
+    Cooldown: 120000
+===============================
+===============================
+Group ID: arcane
+    ID: towerofflames
+    Name Tower of Flames
+    Ultimate: false
+    Description: 
+        Blue particle ring and damage nearby players.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: arcane
+    ID: sonicbum
+    Name Soulles Scream
+    Ultimate: false
+    Description: 
+        Sonic boom effect + heavy debuffs.
+    Cooldown: 180000
+===============================
+

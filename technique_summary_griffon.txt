@@ -7,3 +7,32 @@ Group ID: griffon
         Damage and fling nearby entities.
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: griffon ===
+===============================
+Group ID: griffon
+    ID: slizing_ambush
+    Name Slizing Ambush
+    Ultimate: false
+    Description: 
+        Damage and fling nearby entities.
+    Cooldown: 60000
+===============================
+===============================
+Group ID: griffon
+    ID: razor_tail_flurry
+    Name Razor Tail Flurry
+    Ultimate: false
+    Description: 
+        Temporarily boost attack speed.
+    Cooldown: 120000
+===============================
+===============================
+Group ID: griffon
+    ID: feather_tornado
+    Name Feather Tornado
+    Ultimate: false
+    Description: 
+        Gather and spiral nearby players while damaging them.
+    Cooldown: 300000
+===============================
+

@@ -7,3 +7,41 @@ Group ID: whacka_abyss
         Sacrifice to get Whacka bumps.
     Cooldown: 1200000
 ===============================
+=== Technique Summary for group: whacka_abyss ===
+===============================
+Group ID: whacka_abyss
+    ID: chichonesmuchosxd
+    Name Sacrificio de Guaka
+    Ultimate: false
+    Description: 
+        Sacrifice to get Whacka bumps.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: whacka_abyss
+    ID: whacka_summon_toomany
+    Name Ejército de Guakas
+    Ultimate: false
+    Description: 
+        Summon many Whackas to fight for you.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: whacka_abyss
+    ID: incredibleviolence
+    Name Guakataque
+    Ultimate: false
+    Description: 
+        Launch multiple bump projectiles consuming bumps.
+    Cooldown: 40000
+===============================
+===============================
+Group ID: whacka_abyss
+    ID: reset_cooldown_whacka
+    Name Reinicio de Guaka
+    Ultimate: false
+    Description: 
+        Reset many abyss & fruit cooldowns.
+    Cooldown: 3000000
+===============================
+

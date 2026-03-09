@@ -7,3 +7,32 @@ Group ID: assasin
         Remove nearby projectiles.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: assasin ===
+===============================
+Group ID: assasin
+    ID: antiShoot
+    Name Assassin's Anti-Shoot Technique
+    Ultimate: false
+    Description: 
+        Remove nearby projectiles.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: assasin
+    ID: tp
+    Name Dont get Lost
+    Ultimate: false
+    Description: 
+        Teleport to closest player.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: assasin
+    ID: crit
+    Name Critical Damage
+    Ultimate: false
+    Description: 
+        Next attack deals critical damage.
+    Cooldown: 300000
+===============================
+

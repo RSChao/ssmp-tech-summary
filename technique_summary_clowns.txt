@@ -7,3 +7,32 @@ Group ID: clowns
         Spin nearby players and damage them periodically.
     Cooldown: 1200000
 ===============================
+=== Technique Summary for group: clowns ===
+===============================
+Group ID: clowns
+    ID: merrygoround
+    Name Up and down on this merry-go-round
+    Ultimate: false
+    Description: 
+        Spin nearby players and damage them periodically.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: clowns
+    ID: nyehehe
+    Name Amusing Trick
+    Ultimate: false
+    Description: 
+        Teleport behind target and blind them.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: clowns
+    ID: swapPlayersNearby
+    Name Deck Shuffle
+    Ultimate: false
+    Description: 
+        Swap positions of nearby players.
+    Cooldown: 600000
+===============================
+

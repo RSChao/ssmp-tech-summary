@@ -7,3 +7,41 @@ Group ID: god_of_light
         Pull targets into orbit and damage.
     Cooldown: 20000
 ===============================
+=== Technique Summary for group: god_of_light ===
+===============================
+Group ID: god_of_light
+    ID: light_pull
+    Name Light Pull
+    Ultimate: false
+    Description: 
+        Pull targets into orbit and damage.
+    Cooldown: 20000
+===============================
+===============================
+Group ID: god_of_light
+    ID: flash_blind
+    Name Flash Blind
+    Ultimate: false
+    Description: 
+        Blind players by emitting particles.
+    Cooldown: 20000
+===============================
+===============================
+Group ID: god_of_light
+    ID: blink
+    Name Blink
+    Ultimate: false
+    Description: 
+        Teleport to looked block.
+    Cooldown: 15000
+===============================
+===============================
+Group ID: god_of_light
+    ID: light_burns_sky
+    Name Light that burns the Sky
+    Ultimate: true
+    Description: 
+        Massive multi-pulse ultimate.
+    Cooldown: 600000
+===============================
+

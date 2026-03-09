@@ -7,3 +7,41 @@ Group ID: dario
         Swift Attack
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: dario ===
+===============================
+Group ID: dario
+    ID: swift_attack
+    Name Swift Attack
+    Ultimate: false
+    Description: 
+        Swift Attack
+    Cooldown: 300000
+===============================
+===============================
+Group ID: dario
+    ID: lucky_speed
+    Name Lucky speed!
+    Ultimate: false
+    Description: 
+        Lucky speed!
+    Cooldown: 180000
+===============================
+===============================
+Group ID: dario
+    ID: no-geno-haha
+    Name Nou moar Jénos!
+    Ultimate: true
+    Description: 
+        Ultimate: Nou moar Jénos!
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: dario
+    ID: blazing_dash
+    Name Blazing Dash
+    Ultimate: true
+    Description: 
+        Ultimate: Blazing Dash
+    Cooldown: 1800000
+===============================
+

@@ -8,3 +8,106 @@ Group ID: shadow
         Daña a un jugador cercano
     Cooldown: 420000
 ===============================
+=== Technique Summary for group: shadow ===
+===============================
+Group ID: shadow
+    ID: shadow_dash
+    Name Shadow Dash
+    Ultimate: false
+    Description: 
+        Proporciona un pequeño salto
+        Daña a un jugador cercano
+    Cooldown: 420000
+===============================
+===============================
+Group ID: shadow
+    ID: soulless
+    Name Soulless
+    Ultimate: false
+    Description: 
+        Elimina las almas del jugador durante un tiempo
+    Cooldown: 600000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_abyss
+    Name Shadow Abyss
+    Ultimate: false
+    Description: 
+        Crea un abismo de sombras que daña a los enemigos cercanos
+    Cooldown: 900000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_walk
+    Name Shadow Walk
+    Ultimate: false
+    Description: 
+        Te teletransporta a un jugador cercano
+    Cooldown: 180000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_world
+    Name Shadow World
+    Ultimate: true
+    Description: 
+        Crea un mundo de sombras que daña a los enemigos cercanos
+    Cooldown: 240000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_strikes
+    Name Shadow Strikes
+    Ultimate: false
+    Description: 
+        Lanza una serie de ataques rapidos
+    Cooldown: 600000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_bleed
+    Name Shadow Bleed
+    Ultimate: false
+    Description: 
+        Causa sangrado a un jugador cercano
+    Cooldown: 480000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_kick
+    Name Shadow Kick
+    Ultimate: false
+    Description: 
+        Lanza por los aires a un jugador cercano
+    Cooldown: 300000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_punch
+    Name Shadow Punch
+    Ultimate: true
+    Description: 
+        Lanza un poderoso puñetazo de sombras que daña a un enemigo
+    Cooldown: 2700000
+===============================
+===============================
+Group ID: shadow
+    ID: omega_blast
+    Name Omega Blast
+    Ultimate: true
+    Description: 
+        Lanza un poderoso ataque de sombras que daña a todos los enemigos cercanos
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: shadow
+    ID: shadow_massacre
+    Name Shadow Massacre
+    Ultimate: true
+    Description: 
+        Crea una esfera de destrucción
+        3 pops
+    Cooldown: 36000000
+===============================
+

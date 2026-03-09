@@ -7,3 +7,41 @@ Group ID: master_of_hearts
         Daña a jugadores en el punto de mira del usuario.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: master_of_hearts ===
+===============================
+Group ID: master_of_hearts
+    ID: heartcannon
+    Name Heart cannon
+    Ultimate: false
+    Description: 
+        Daña a jugadores en el punto de mira del usuario.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: master_of_hearts
+    ID: whacka_summon
+    Name Whacka Summoner
+    Ultimate: false
+    Description: 
+        Summons a friendly Whacka to fight for you.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: master_of_hearts
+    ID: pureheart_laser
+    Name Pureheart Barrage
+    Ultimate: false
+    Description: 
+        Anillos de purehearts y láseres según absorption/salud.
+    Cooldown: 60000
+===============================
+===============================
+Group ID: master_of_hearts
+    ID: ultimate_cataclysm
+    Name Heart Atomization
+    Ultimate: true
+    Description: 
+        Ultimate multi-fase con anillos y esfera.
+    Cooldown: 7200000
+===============================
+

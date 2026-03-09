@@ -7,3 +7,41 @@ Group ID: end_boss
         Temporarily set flash damage flag.
     Cooldown: 240000
 ===============================
+=== Technique Summary for group: end_boss ===
+===============================
+Group ID: end_boss
+    ID: flash
+    Name Black Flash
+    Ultimate: false
+    Description: 
+        Temporarily set flash damage flag.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: end_boss
+    ID: lasersweep
+    Name Laser Sweep
+    Ultimate: false
+    Description: 
+        Sweep a laser beam that damages in path.
+    Cooldown: 60000
+===============================
+===============================
+Group ID: end_boss
+    ID: blackhole
+    Name Black Hole
+    Ultimate: false
+    Description: 
+        Create a Black Hole effect.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: end_boss
+    ID: dimentio
+    Name Dimensional Projectile
+    Ultimate: true
+    Description: 
+        Spawn shulker bullets at closest players.
+    Cooldown: 30000
+===============================
+

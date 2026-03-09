@@ -7,3 +7,50 @@ Group ID: college_of_swords
         Teleport behind a target and create explosions.
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: college_of_swords ===
+===============================
+Group ID: college_of_swords
+    ID: etherealblade
+    Name Ethereal Blade
+    Ultimate: false
+    Description: 
+        Teleport behind a target and create explosions.
+    Cooldown: 60000
+===============================
+===============================
+Group ID: college_of_swords
+    ID: reset_cooldown_delta
+    Name Floritures go brrr
+    Ultimate: false
+    Description: 
+        Remove all cooldowns.
+    Cooldown: 1800000
+===============================
+===============================
+Group ID: college_of_swords
+    ID: zippit
+    Name Zippit
+    Ultimate: false
+    Description: 
+        Proxy to cooldownfunny action.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: college_of_swords
+    ID: no_attack_cooldown
+    Name *swish* Olé!
+    Ultimate: true
+    Description: 
+        Temporarily set attack speed very high.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: college_of_swords
+    ID: danza
+    Name Ascent to Heaven
+    Ultimate: false
+    Description: 
+        Send nearby players skyward and explode them.
+    Cooldown: 3600000
+===============================
+

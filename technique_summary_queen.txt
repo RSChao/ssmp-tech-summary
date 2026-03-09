@@ -7,3 +7,41 @@ Group ID: queen
         Remove harmful effects and grant buffs.
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: queen ===
+===============================
+Group ID: queen
+    ID: bless
+    Name Blessing of the Queen
+    Ultimate: false
+    Description: 
+        Remove harmful effects and grant buffs.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: queen
+    ID: protonblast_triple
+    Name Trident Hell Blast
+    Ultimate: false
+    Description: 
+        Three-directional trident blast.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: queen
+    ID: lol
+    Name The Queen's way
+    Ultimate: false
+    Description: 
+        Terrify and severely damage nearby players.
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: queen
+    ID: fire_res
+    Name Fire Resistance
+    Ultimate: false
+    Description: 
+        Grant fire resistance indefinitely.
+    Cooldown: 120000
+===============================
+

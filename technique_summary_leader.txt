@@ -7,3 +7,41 @@ Group ID: leader
         Propel forward or enable pro flight.
     Cooldown: 10000
 ===============================
+=== Technique Summary for group: leader ===
+===============================
+Group ID: leader
+    ID: soraingskeis
+    Name Soaring Skies
+    Ultimate: false
+    Description: 
+        Propel forward or enable pro flight.
+    Cooldown: 10000
+===============================
+===============================
+Group ID: leader
+    ID: lluvia
+    Name Feather Rain
+    Ultimate: false
+    Description: 
+        Schedule multiple arrow spreads.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: leader
+    ID: talonflame
+    Name Reaction Talons
+    Ultimate: false
+    Description: 
+        Damage and fling nearby entities.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: leader
+    ID: deltastopcopyinshit
+    Name Revolution Fireworks
+    Ultimate: false
+    Description: 
+        Launch falling obsidian shards that explode.
+    Cooldown: 600000
+===============================
+

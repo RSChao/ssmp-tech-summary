@@ -7,3 +7,50 @@ Group ID: peru
         Lil' poison darts
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: peru ===
+===============================
+Group ID: peru
+    ID: lil_poison_darts
+    Name Lil' poison darts
+    Ultimate: false
+    Description: 
+        Lil' poison darts
+    Cooldown: 180000
+===============================
+===============================
+Group ID: peru
+    ID: annoying_glitch
+    Name Annoying glitch
+    Ultimate: false
+    Description: 
+        Annoying glitch
+    Cooldown: 240000
+===============================
+===============================
+Group ID: peru
+    ID: jump_go_big
+    Name Jump go big
+    Ultimate: false
+    Description: 
+        Jump go big
+    Cooldown: 360000
+===============================
+===============================
+Group ID: peru
+    ID: dont_blow_me_up
+    Name Dont blow me up
+    Ultimate: false
+    Description: 
+        Dont blow me up
+    Cooldown: 300000
+===============================
+===============================
+Group ID: peru
+    ID: ultimate_glitch
+    Name Ultimate glitch
+    Ultimate: true
+    Description: 
+        Ultimate: Ultimate glitch
+    Cooldown: 3600000
+===============================
+

@@ -8,3 +8,50 @@ Group ID: magician
         otorga espectador
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: magician ===
+===============================
+Group ID: magician
+    ID: poof
+    Name Dimensional Breach
+    Ultimate: false
+    Description: 
+        Desvanece al usuario un tiempo
+        otorga espectador
+    Cooldown: 300000
+===============================
+===============================
+Group ID: magician
+    ID: illusion
+    Name Dimentio's Illusion
+    Ultimate: false
+    Description: 
+        Crea clones zombi del usuario
+    Cooldown: 180000
+===============================
+===============================
+Group ID: magician
+    ID: distortion
+    Name Spatial Distortion
+    Ultimate: false
+    Description: 
+    Cooldown: 240000
+===============================
+===============================
+Group ID: magician
+    ID: dimensional_gather
+    Name Dimensional Gathering
+    Ultimate: false
+    Description: 
+        Atrapa a todos en Dimension D
+    Cooldown: 600000
+===============================
+===============================
+Group ID: magician
+    ID: dimensional_expulsion
+    Name Dimensional Expulsion
+    Ultimate: false
+    Description: 
+        Deshace Dimensional Gathering
+    Cooldown: 120000
+===============================
+

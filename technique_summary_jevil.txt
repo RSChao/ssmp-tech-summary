@@ -7,3 +7,50 @@ Group ID: jevil
         Spade Bomb
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: jevil ===
+===============================
+Group ID: jevil
+    ID: spade
+    Name Spade Bomb
+    Ultimate: false
+    Description: 
+        Spade Bomb
+    Cooldown: 300000
+===============================
+===============================
+Group ID: jevil
+    ID: heartbarrier
+    Name Heart Barrier
+    Ultimate: false
+    Description: 
+        Heart Barrier
+    Cooldown: 60000
+===============================
+===============================
+Group ID: jevil
+    ID: diamondchain
+    Name Diamond Chain
+    Ultimate: false
+    Description: 
+        Diamond Chain
+    Cooldown: 300000
+===============================
+===============================
+Group ID: jevil
+    ID: shuffle
+    Name Houdini's Shuffle
+    Ultimate: false
+    Description: 
+        Houdini's Shuffle
+    Cooldown: 180000
+===============================
+===============================
+Group ID: jevil
+    ID: laugh
+    Name Jevil's Laugh
+    Ultimate: true
+    Description: 
+        Ultimate: Jevil's Laugh
+    Cooldown: 1800000
+===============================
+

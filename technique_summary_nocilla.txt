@@ -7,3 +7,32 @@ Group ID: nocilla
         Impulsa al usuario y le da jump boost y velocidad
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: nocilla ===
+===============================
+Group ID: nocilla
+    ID: acrobacias
+    Name Acrobatics
+    Ultimate: false
+    Description: 
+        Impulsa al usuario y le da jump boost y velocidad
+    Cooldown: 60000
+===============================
+===============================
+Group ID: nocilla
+    ID: cartas
+    Name Card Madness
+    Ultimate: false
+    Description: 
+        Crea una esfera de flechas
+    Cooldown: 300000
+===============================
+===============================
+Group ID: nocilla
+    ID: lluviaestelar
+    Name Deck StarStorm
+    Ultimate: false
+    Description: 
+        Invoca meteoritos del cielo
+    Cooldown: 600000
+===============================
+

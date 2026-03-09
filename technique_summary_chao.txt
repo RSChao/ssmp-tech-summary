@@ -7,3 +7,86 @@ Group ID: chao
         Genera comida gratis
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: chao ===
+===============================
+Group ID: chao
+    ID: food
+    Name Abundance of Food
+    Ultimate: false
+    Description: 
+        Genera comida gratis
+    Cooldown: 60000
+===============================
+===============================
+Group ID: chao
+    ID: pearl
+    Name Free Pearl
+    Ultimate: false
+    Description: 
+        Genera perlas gratis
+    Cooldown: 60000
+===============================
+===============================
+Group ID: chao
+    ID: armor
+    Name Armor Haki
+    Ultimate: false
+    Description: 
+        Repara armor
+    Cooldown: 300000
+===============================
+===============================
+Group ID: chao
+    ID: tp
+    Name Dont get Lost
+    Ultimate: false
+    Description: 
+        Tp a jugadores cercanos
+    Cooldown: 180000
+===============================
+===============================
+Group ID: chao
+    ID: feast
+    Name Golden Feast
+    Ultimate: false
+    Description: 
+        Cura hambre y saturación
+    Cooldown: 60000
+===============================
+===============================
+Group ID: chao
+    ID: purify
+    Name Heavenly Purification
+    Ultimate: false
+    Description: 
+        Elimina efectos negativos
+    Cooldown: 360000
+===============================
+===============================
+Group ID: chao
+    ID: spiral
+    Name Spiral of the End
+    Ultimate: true
+    Description: 
+        Genocidio
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: chao
+    ID: slashes
+    Name Flying Slashes of Hatred
+    Ultimate: true
+    Description: 
+        Flechitas matan cosas si tienes xp
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: chao
+    ID: soulstorm
+    Name Soulstorm
+    Ultimate: true
+    Description: 
+        Revienta a jugadores cercanos (2 o 3 pops)
+    Cooldown: 3600000
+===============================
+

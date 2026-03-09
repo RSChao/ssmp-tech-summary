@@ -7,3 +7,41 @@ Group ID: lynk
         Throw a player into a wall.
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: lynk ===
+===============================
+Group ID: lynk
+    ID: lapare
+    Name Las manos arriba, las manos abajo, y te comes el muro
+    Ultimate: false
+    Description: 
+        Throw a player into a wall.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: lynk
+    ID: paralyze
+    Name Kieto parao
+    Ultimate: false
+    Description: 
+        Paralyze nearest player.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: lynk
+    ID: zombie_summon
+    Name Magia seika
+    Ultimate: false
+    Description: 
+        Invoca un clon zombi basado en el jugador.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: lynk
+    ID: ganon_ultimate
+    Name Ganon's Banish
+    Ultimate: true
+    Description: 
+        Send nearby players to configured location and apply Wither.
+    Cooldown: 3600000
+===============================
+

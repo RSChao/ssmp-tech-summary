@@ -7,3 +7,32 @@ Group ID: smasher
         Temporary crit damage flag.
     Cooldown: 240000
 ===============================
+=== Technique Summary for group: smasher ===
+===============================
+Group ID: smasher
+    ID: punetaso
+    Name Heavy Fist
+    Ultimate: false
+    Description: 
+        Temporary crit damage flag.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: smasher
+    ID: petasion
+    Name Bulked up body
+    Ultimate: false
+    Description: 
+        Grant resistance buff.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: smasher
+    ID: gorila
+    Name Gorilla Press
+    Ultimate: false
+    Description: 
+        Launch fireball volley after delay.
+    Cooldown: 180000
+===============================
+

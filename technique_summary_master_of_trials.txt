@@ -7,3 +7,14 @@ Group ID: master_of_trials
         Summon a mob floor according to player level.
     Cooldown: 600000
 ===============================
+=== Technique Summary for group: master_of_trials ===
+===============================
+Group ID: master_of_trials
+    ID: floor_summon
+    Name Floor Summoner
+    Ultimate: true
+    Description: 
+        Summon a mob floor according to player level.
+    Cooldown: 600000
+===============================
+

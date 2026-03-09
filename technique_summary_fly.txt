@@ -7,3 +7,68 @@ Group ID: fly
         Propulsa al jugador
     Cooldown: 10000
 ===============================
+=== Technique Summary for group: fly ===
+===============================
+Group ID: fly
+    ID: fly_me_to_the_moon
+    Name Fly me to the moon
+    Ultimate: false
+    Description: 
+        Propulsa al jugador
+    Cooldown: 10000
+===============================
+===============================
+Group ID: fly
+    ID: tailwind
+    Name Tailwind
+    Ultimate: false
+    Description: 
+        Velocidad temporal
+    Cooldown: 50000
+===============================
+===============================
+Group ID: fly
+    ID: flying_little_bugs
+    Name Flying little bugs
+    Ultimate: false
+    Description: 
+        Invoca vex
+    Cooldown: 60000
+===============================
+===============================
+Group ID: fly
+    ID: feather_fall
+    Name Feather fall
+    Ultimate: false
+    Description: 
+        Caída lenta
+    Cooldown: 60000
+===============================
+===============================
+Group ID: fly
+    ID: arrows
+    Name Astral Barrage
+    Ultimate: false
+    Description: 
+        Lluvia de flechas
+    Cooldown: 180000
+===============================
+===============================
+Group ID: fly
+    ID: dance_in_the_stars
+    Name Dance in the stars
+    Ultimate: true
+    Description: 
+        Ultimate: Dance in the stars
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: fly
+    ID: ascension_of_abundance
+    Name Ascensión de la Abundancia
+    Ultimate: true
+    Description: 
+        Ultimate: Ascensión de la Abundancia
+    Cooldown: 36000000
+===============================
+

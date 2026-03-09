@@ -7,3 +7,32 @@ Group ID: manticore
         Launch a volley of wither arrows.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: manticore ===
+===============================
+Group ID: manticore
+    ID: barbas
+    Name Thousand Poison Barbs
+    Ultimate: false
+    Description: 
+        Launch a volley of wither arrows.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: manticore
+    ID: toss
+    Name Seismic Toss
+    Ultimate: false
+    Description: 
+        Launch forward and spawn fireballs.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: manticore
+    ID: yubiaputera
+    Name Accid rain
+    Ultimate: false
+    Description: 
+        Rain arrows from above around a target.
+    Cooldown: 240000
+===============================
+

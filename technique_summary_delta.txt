@@ -7,3 +7,77 @@ Group ID: delta
         Wind sword
     Cooldown: 30000
 ===============================
+=== Technique Summary for group: delta ===
+===============================
+Group ID: delta
+    ID: wind_sword
+    Name Wind sword
+    Ultimate: false
+    Description: 
+        Wind sword
+    Cooldown: 30000
+===============================
+===============================
+Group ID: delta
+    ID: negate
+    Name NEGATE
+    Ultimate: false
+    Description: 
+        NEGATE
+    Cooldown: 300000
+===============================
+===============================
+Group ID: delta
+    ID: dragon_onslaught
+    Name Dragon onslaught
+    Ultimate: false
+    Description: 
+        Dragon onslaught
+    Cooldown: 60000
+===============================
+===============================
+Group ID: delta
+    ID: armor_haki
+    Name Armor Haki
+    Ultimate: false
+    Description: 
+        Armor Haki
+    Cooldown: 300000
+===============================
+===============================
+Group ID: delta
+    ID: conquerors_haki
+    Name Conqueror's Haki
+    Ultimate: false
+    Description: 
+        Conqueror's Haki
+    Cooldown: 300000
+===============================
+===============================
+Group ID: delta
+    ID: zoltraak
+    Name Zoltraak
+    Ultimate: false
+    Description: 
+        Zoltraak
+    Cooldown: 120000
+===============================
+===============================
+Group ID: delta
+    ID: wrath_of_elemental_god
+    Name Wrath of the Elemental God
+    Ultimate: true
+    Description: 
+        Wrath of the Elemental God
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: delta
+    ID: tornado
+    Name Tornado
+    Ultimate: true
+    Description: 
+        Tornado
+    Cooldown: 3600000
+===============================
+

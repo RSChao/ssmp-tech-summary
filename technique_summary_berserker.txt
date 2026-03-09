@@ -7,3 +7,32 @@ Group ID: berserker
         Temporary high strength.
     Cooldown: 240000
 ===============================
+=== Technique Summary for group: berserker ===
+===============================
+Group ID: berserker
+    ID: rage
+    Name Berserker's Rage
+    Ultimate: false
+    Description: 
+        Temporary high strength.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: berserker
+    ID: fury
+    Name Berserker's Fury
+    Ultimate: false
+    Description: 
+        Massive attack speed boost temporarily.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: berserker
+    ID: berserk
+    Name Full Berserk
+    Ultimate: false
+    Description: 
+        Cleanse negative effects and gain strength.
+    Cooldown: 300000
+===============================
+

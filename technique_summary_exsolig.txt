@@ -7,3 +7,41 @@ Group ID: exsolig
         Shoot a sonic particle ray to target.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: exsolig ===
+===============================
+Group ID: exsolig
+    ID: sonicboom
+    Name Sound Ray
+    Ultimate: false
+    Description: 
+        Shoot a sonic particle ray to target.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: exsolig
+    ID: light
+    Name Shine your Light
+    Ultimate: false
+    Description: 
+        Glow nearby players.
+    Cooldown: 90000
+===============================
+===============================
+Group ID: exsolig
+    ID: downexplode
+    Name Down Explosin
+    Ultimate: false
+    Description: 
+        Create a downward explosion.
+    Cooldown: 45000
+===============================
+===============================
+Group ID: exsolig
+    ID: tp
+    Name Dont get Lost
+    Ultimate: false
+    Description: 
+        Teleport to a privileged player or closest player.
+    Cooldown: 180000
+===============================
+

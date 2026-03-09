@@ -7,3 +7,59 @@ Group ID: ganon
         Claymore Smash
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: ganon ===
+===============================
+Group ID: ganon
+    ID: fsmash
+    Name Claymore Smash
+    Ultimate: false
+    Description: 
+        Claymore Smash
+    Cooldown: 300000
+===============================
+===============================
+Group ID: ganon
+    ID: kick
+    Name Ganon kick
+    Ultimate: false
+    Description: 
+        Ganon kick
+    Cooldown: 60000
+===============================
+===============================
+Group ID: ganon
+    ID: grab
+    Name Ganon grab
+    Ultimate: false
+    Description: 
+        Ganon grab
+    Cooldown: 90000
+===============================
+===============================
+Group ID: ganon
+    ID: punch
+    Name Warlock punch
+    Ultimate: false
+    Description: 
+        Warlock punch
+    Cooldown: 120000
+===============================
+===============================
+Group ID: ganon
+    ID: rush
+    Name Calamity Beast Rush
+    Ultimate: true
+    Description: 
+        Calamity Beast Rush
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: ganon
+    ID: tempest_of_ruin
+    Name Tempestad de la Ruina
+    Ultimate: true
+    Description: 
+        Tempestad de la Ruina
+    Cooldown: 36000000
+===============================
+

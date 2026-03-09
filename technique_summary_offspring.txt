@@ -7,3 +7,41 @@ Group ID: offspring
         Launch determination projectiles repeatedly.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: offspring ===
+===============================
+Group ID: offspring
+    ID: hellfire
+    Name Hellfire
+    Ultimate: false
+    Description: 
+        Launch determination projectiles repeatedly.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: offspring
+    ID: carnage
+    Name Hatred Carnage
+    Ultimate: false
+    Description: 
+        Massive area push and damage.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: offspring
+    ID: dfisdis
+    Name Hope Vanquisher
+    Ultimate: false
+    Description: 
+        Create a dark sphere and debuff players inside.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: offspring
+    ID: fire_res
+    Name Fire Resistance
+    Ultimate: false
+    Description: 
+        Give fire resistance indefinitely.
+    Cooldown: 120000
+===============================
+

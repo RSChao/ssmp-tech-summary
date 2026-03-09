@@ -7,3 +7,86 @@ Group ID: Familiar_love
         Restore C-heart from inventory/offhand or remove cooldown.
     Cooldown: 1200000
 ===============================
+=== Technique Summary for group: Familiar_love ===
+===============================
+Group ID: Familiar_love
+    ID: unded_cat
+    Name Poder del gato inmortal
+    Ultimate: false
+    Description: 
+        Restore C-heart from inventory/offhand or remove cooldown.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: lazy_brick
+    Name Ladrillo al vago
+    Ultimate: false
+    Description: 
+        Slow nearest players then launch arrow after delay.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: equivocarse_es_delito
+    Name Equivocarse es delito
+    Ultimate: false
+    Description: 
+        Temporary buff flag for player.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: ostiacion
+    Name Ostiación
+    Ultimate: false
+    Description: 
+        Massive hit to closest player.
+    Cooldown: 900000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: wolf_pack
+    Name Manada de lobos
+    Ultimate: false
+    Description: 
+        Summon 3 wolves with boosted stats.
+    Cooldown: 420000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: siete_por__ocho
+    Name ¿¡7x8!?
+    Ultimate: false
+    Description: 
+        Deal heavy AoE damage.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: cat_tramper
+    Name Cat tramper
+    Ultimate: false
+    Description: 
+        Summon a cat that may explode.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: iron_gramps
+    Name Iron Gramps
+    Ultimate: false
+    Description: 
+        Temporary resistance and regen.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: Familiar_love
+    ID: familiar_love
+    Name Amor familiar
+    Ultimate: true
+    Description: 
+        Ultimate: spawn hearts, particles and massive AoE damage.
+    Cooldown: 3600000
+===============================
+

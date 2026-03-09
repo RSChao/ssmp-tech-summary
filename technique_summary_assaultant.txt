@@ -7,3 +7,32 @@ Group ID: assaultant
         Launch forward or enable pro flight.
     Cooldown: 10000
 ===============================
+=== Technique Summary for group: assaultant ===
+===============================
+Group ID: assaultant
+    ID: highJump
+    Name High Jump Technique
+    Ultimate: false
+    Description: 
+        Launch forward or enable pro flight.
+    Cooldown: 10000
+===============================
+===============================
+Group ID: assaultant
+    ID: speedBoost
+    Name Speed Boost Technique
+    Ultimate: false
+    Description: 
+        Gain a strong speed buff.
+    Cooldown: 40000
+===============================
+===============================
+Group ID: assaultant
+    ID: freePearl
+    Name Free Pearl Technique
+    Ultimate: false
+    Description: 
+        Give a stack of ender pearls if inventory space.
+    Cooldown: 120000
+===============================
+

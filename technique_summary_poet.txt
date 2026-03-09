@@ -7,3 +7,50 @@ Group ID: poet
         Launch determination projectiles.
     Cooldown: 120000
 ===============================
+=== Technique Summary for group: poet ===
+===============================
+Group ID: poet
+    ID: dt
+    Name Runic Hellfire
+    Ultimate: false
+    Description: 
+        Launch determination projectiles.
+    Cooldown: 120000
+===============================
+===============================
+Group ID: poet
+    ID: fuckudelta
+    Name Pale Rave's Eye
+    Ultimate: false
+    Description: 
+        Attempt to unleash a random technique.
+    Cooldown: 1200000
+===============================
+===============================
+Group ID: poet
+    ID: protonblast
+    Name Runic Proton Blast
+    Ultimate: false
+    Description: 
+        Fire a long particle/arrow beam.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: poet
+    ID: omninegate
+    Name Omni Negate
+    Ultimate: false
+    Description: 
+        Temporarily toggle omni negate.
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: poet
+    ID: holy_moly
+    Name Holy Moly
+    Ultimate: false
+    Description: 
+        Drop a holy moly item.
+    Cooldown: 3600000
+===============================
+

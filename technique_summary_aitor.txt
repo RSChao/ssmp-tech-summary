@@ -7,3 +7,14 @@ Group ID: aitor
         Aitor ultimate
     Cooldown: 3600000
 ===============================
+=== Technique Summary for group: aitor ===
+===============================
+Group ID: aitor
+    ID: aitor_tech
+    Name Aitor's Technique
+    Ultimate: true
+    Description: 
+        Aitor ultimate
+    Cooldown: 3600000
+===============================
+

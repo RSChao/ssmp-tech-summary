@@ -7,3 +7,32 @@ Group ID: redeemed
         Teleport and buff a nearby player repeatedly.
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: redeemed ===
+===============================
+Group ID: redeemed
+    ID: deltateodiodos
+    Name Blessed Chains
+    Ultimate: false
+    Description: 
+        Teleport and buff a nearby player repeatedly.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: redeemed
+    ID: why
+    Name Golden Flare
+    Ultimate: false
+    Description: 
+        Create golden aura and buff nearby players.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: redeemed
+    ID: redeemedmf
+    Name Redeemed Blade
+    Ultimate: false
+    Description: 
+        Temporarily boost attack speed and grant AoE buffs.
+    Cooldown: 420000
+===============================
+

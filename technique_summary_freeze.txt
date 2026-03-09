@@ -7,3 +7,60 @@ Group ID: freeze
         Launches ice arrows that slow enemies on hit.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: freeze ===
+===============================
+Group ID: freeze
+    ID: blizzard_ice
+    Name Ice Barrage
+    Ultimate: false
+    Description: 
+        Launches ice arrows that slow enemies on hit.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: freeze
+    ID: ice_wall
+    Name Ice Wall
+    Ultimate: false
+    Description: 
+        Creates a wall of ice that blocks projectiles and slows enemies.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: freeze
+    ID: ice_blade
+    Name Ice Blade
+    Ultimate: false
+    Description: 
+        Your blade becomes covered in ice, dealing extra damage and slowing enemies on hit.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: freeze
+    ID: frost_grip
+    Name Frost Grip
+    Ultimate: false
+    Description: 
+        Grabs an enemy and encases them in ice, immobilizing them for a short duration.
+        Knockback is saved until the effect ends.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: freeze
+    ID: ice_glide
+    Name Ice Glide
+    Ultimate: false
+    Description: 
+        Glide across the ground, increasing movement speed and leaving a trail of ice.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: freeze
+    ID: world_of_ice
+    Name World of Ice
+    Ultimate: true
+    Description: 
+        Creates a large area of ice around you, slowing and damaging enemies that enter it.
+    Cooldown: 1800000
+===============================
+

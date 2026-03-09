@@ -7,3 +7,32 @@ Group ID: oblivion_depleter
         Heals and gives Origin 1 extra pop.
     Cooldown: 600000
 ===============================
+=== Technique Summary for group: oblivion_depleter ===
+===============================
+Group ID: oblivion_depleter
+    ID: breath
+    Name Oblivions breath
+    Ultimate: false
+    Description: 
+        Heals and gives Origin 1 extra pop.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: oblivion_depleter
+    ID: chunk
+    Name Oblivion chunk
+    Ultimate: false
+    Description: 
+        Deals damage and applies chained and nightmare effects.
+    Cooldown: 900000
+===============================
+===============================
+Group ID: oblivion_depleter
+    ID: heavenly_slashes
+    Name Heavenly rain of oblivion
+    Ultimate: false
+    Description: 
+        Ascension attack dealing massive damage.
+    Cooldown: 1800000
+===============================
+

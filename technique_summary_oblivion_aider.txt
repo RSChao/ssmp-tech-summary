@@ -7,3 +7,41 @@ Group ID: oblivion_aider
         
     Cooldown: 120000
 ===============================
+=== Technique Summary for group: oblivion_aider ===
+===============================
+Group ID: oblivion_aider
+    ID: oblivion_aider_buff
+    Name Oblivion's Aid
+    Ultimate: false
+    Description: 
+        
+    Cooldown: 120000
+===============================
+===============================
+Group ID: oblivion_aider
+    ID: oblivion_aider_negate
+    Name Oblivion's Negate
+    Ultimate: false
+    Description: 
+        
+    Cooldown: 1800000
+===============================
+===============================
+Group ID: oblivion_aider
+    ID: oblivion_aider_holy_moly
+    Name Oblivion's Holy Moly
+    Ultimate: false
+    Description: 
+        
+    Cooldown: 420000
+===============================
+===============================
+Group ID: oblivion_aider
+    ID: oblivion_aider_destiny_bond
+    Name Oblivion's Destiny Bond
+    Ultimate: false
+    Description: 
+        
+    Cooldown: 1200000
+===============================
+

@@ -7,3 +7,50 @@ Group ID: chosen_one
         Fire potion-effect arrows.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: chosen_one ===
+===============================
+Group ID: chosen_one
+    ID: weird_arrows
+    Name Ráfaga de locura
+    Ultimate: false
+    Description: 
+        Fire potion-effect arrows.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: chosen_one
+    ID: darioqueputas
+    Name Super Stickman
+    Ultimate: false
+    Description: 
+        Charge and explode at closest player.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: chosen_one
+    ID: tp
+    Name ¡Y esos hacks!
+    Ultimate: false
+    Description: 
+        Teleport to boss or coordinates item.
+    Cooldown: 4000
+===============================
+===============================
+Group ID: chosen_one
+    ID: reset_cooldown
+    Name Cooldowns? Eso se come?
+    Ultimate: false
+    Description: 
+        Reset many cooldowns.
+    Cooldown: 1800000
+===============================
+===============================
+Group ID: chosen_one
+    ID: ultimate_zombie_summon
+    Name Legión de la Muerte
+    Ultimate: true
+    Description: 
+        Summon zombie warriors based on player.
+    Cooldown: 600000
+===============================
+

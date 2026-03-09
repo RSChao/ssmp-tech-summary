@@ -7,3 +7,50 @@ Group ID: fabri
         Free pearl
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: fabri ===
+===============================
+Group ID: fabri
+    ID: free_pearl
+    Name Free pearl
+    Ultimate: false
+    Description: 
+        Free pearl
+    Cooldown: 60000
+===============================
+===============================
+Group ID: fabri
+    ID: infinite_crystals
+    Name Infinite Crystals
+    Ultimate: false
+    Description: 
+        Infinite crystals
+    Cooldown: 180000
+===============================
+===============================
+Group ID: fabri
+    ID: obsidian_farm
+    Name Obsidian Farm
+    Ultimate: false
+    Description: 
+        Obsidian farm
+    Cooldown: 180000
+===============================
+===============================
+Group ID: fabri
+    ID: armor_haki
+    Name Armor Haki
+    Ultimate: false
+    Description: 
+        Armor Haki
+    Cooldown: 300000
+===============================
+===============================
+Group ID: fabri
+    ID: immolation
+    Name Immolation
+    Ultimate: true
+    Description: 
+        Ultimate: Immolation
+    Cooldown: 3600000
+===============================
+

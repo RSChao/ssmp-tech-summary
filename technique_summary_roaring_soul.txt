@@ -7,3 +7,59 @@ Group ID: roaring_soul
         Teleport behind a target and apply blindness.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: roaring_soul ===
+===============================
+Group ID: roaring_soul
+    ID: geno
+    Name Dreaded Darkness
+    Ultimate: false
+    Description: 
+        Teleport behind a target and apply blindness.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: roaring_soul
+    ID: fallingstars
+    Name Falling Stars
+    Ultimate: false
+    Description: 
+        Call falling obsidian shards that explode on impact.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: roaring_soul
+    ID: darkworld
+    Name Dark World
+    Ultimate: false
+    Description: 
+        Create a tinted-glass sphere and debuff players inside.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: roaring_soul
+    ID: cooldownfunny
+    Name Technique Fucker
+    Ultimate: false
+    Description: 
+        Sets cooldowns on other players' techniques.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: roaring_soul
+    ID: blowupbox
+    Name Magic Trap
+    Ultimate: true
+    Description: 
+        Creates a barrier box and triggers explosions.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: roaring_soul
+    ID: roaringgowhacka
+    Name Day of the Roaring of Darkness
+    Ultimate: true
+    Description: 
+        Two-phase world-ending ritual.
+    Cooldown: 10800000
+===============================
+

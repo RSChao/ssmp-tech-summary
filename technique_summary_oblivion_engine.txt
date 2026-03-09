@@ -7,3 +7,41 @@ Group ID: oblivion_engine
         Conqueror and Armor boost for 10 seconds.
     Cooldown: 360000
 ===============================
+=== Technique Summary for group: oblivion_engine ===
+===============================
+Group ID: oblivion_engine
+    ID: oblivion_will
+    Name Oblivion's Will
+    Ultimate: false
+    Description: 
+        Conqueror and Armor boost for 10 seconds.
+    Cooldown: 360000
+===============================
+===============================
+Group ID: oblivion_engine
+    ID: death_ravens_eye
+    Name Death Raven's Eye
+    Ultimate: false
+    Description: 
+        Gains the ability to use ultimate techniques for 15 seconds.
+    Cooldown: 480000
+===============================
+===============================
+Group ID: oblivion_engine
+    ID: oblivion_reloader
+    Name Oblivion Reloader
+    Ultimate: false
+    Description: 
+        Removes all technique and hit cooldowns.
+    Cooldown: 600000
+===============================
+===============================
+Group ID: oblivion_engine
+    ID: oblivion_restrainer
+    Name Oblivion Restrainer
+    Ultimate: false
+    Description: 
+        If the target is not in Void Mode, deals massive damage.
+    Cooldown: 720000
+===============================
+

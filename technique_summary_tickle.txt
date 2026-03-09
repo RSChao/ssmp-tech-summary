@@ -7,3 +7,14 @@ Group ID: tickle
         Tickle Spawner
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: tickle ===
+===============================
+Group ID: tickle
+    ID: tickle_spawner
+    Name Tickle Spawner
+    Ultimate: false
+    Description: 
+        Tickle Spawner
+    Cooldown: 60000
+===============================
+

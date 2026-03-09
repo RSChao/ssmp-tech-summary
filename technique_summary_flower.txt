@@ -7,3 +7,77 @@ Group ID: flower
         Petal Blizzard
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: flower ===
+===============================
+Group ID: flower
+    ID: blizzard
+    Name Petal Blizzard
+    Ultimate: false
+    Description: 
+        Petal Blizzard
+    Cooldown: 180000
+===============================
+===============================
+Group ID: flower
+    ID: florafade
+    Name Flora Fade
+    Ultimate: false
+    Description: 
+        Flora Fade
+    Cooldown: 300000
+===============================
+===============================
+Group ID: flower
+    ID: berryburst
+    Name Berry Burst
+    Ultimate: false
+    Description: 
+        Berry Burst
+    Cooldown: 240000
+===============================
+===============================
+Group ID: flower
+    ID: mandragorasbreath
+    Name Mandragora's Breath
+    Ultimate: false
+    Description: 
+        Mandragora's Breath
+    Cooldown: 300000
+===============================
+===============================
+Group ID: flower
+    ID: pentaflare
+    Name Wood Dragon's Fury
+    Ultimate: false
+    Description: 
+        Wood Dragon's Fury
+    Cooldown: 360000
+===============================
+===============================
+Group ID: flower
+    ID: buff
+    Name Funny Plants
+    Ultimate: false
+    Description: 
+        Buff temporal
+    Cooldown: 240000
+===============================
+===============================
+Group ID: flower
+    ID: judge
+    Name Ygdrasil's Judgment
+    Ultimate: true
+    Description: 
+        Ultimate: Ygdrasil's Judgment
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: flower
+    ID: true_blizzard
+    Name Danza de los mil pétalos
+    Ultimate: true
+    Description: 
+        Ultimate: Danza de los mil pétalos
+    Cooldown: 3600000
+===============================
+

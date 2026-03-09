@@ -7,3 +7,50 @@ Group ID: choco
         Make me some Choco
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: choco ===
+===============================
+Group ID: choco
+    ID: make_me_some_choco
+    Name Make me some Choco
+    Ultimate: false
+    Description: 
+        Make me some Choco
+    Cooldown: 60000
+===============================
+===============================
+Group ID: choco
+    ID: choco_choco_not_me
+    Name Choco Choco not Me!
+    Ultimate: false
+    Description: 
+        Choco Choco not Me
+    Cooldown: 180000
+===============================
+===============================
+Group ID: choco
+    ID: sweet_armor
+    Name Sweet armor
+    Ultimate: false
+    Description: 
+        Sweet armor
+    Cooldown: 300000
+===============================
+===============================
+Group ID: choco
+    ID: ace_of_chocolate
+    Name Ace of chocolate
+    Ultimate: false
+    Description: 
+        Ace of chocolate
+    Cooldown: 60000
+===============================
+===============================
+Group ID: choco
+    ID: chocolate_circus
+    Name Chocolate Circus
+    Ultimate: true
+    Description: 
+        Ultimate: Chocolate Circus
+    Cooldown: 3600000
+===============================
+

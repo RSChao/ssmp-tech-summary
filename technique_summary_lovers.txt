@@ -7,3 +7,41 @@ Group ID: lovers
         Spawn several fireballs around you.
     Cooldown: 360000
 ===============================
+=== Technique Summary for group: lovers ===
+===============================
+Group ID: lovers
+    ID: tetraflare
+    Name Dragon's Fire explosion
+    Ultimate: false
+    Description: 
+        Spawn several fireballs around you.
+    Cooldown: 360000
+===============================
+===============================
+Group ID: lovers
+    ID: Bonk
+    Name Nuclear Bonk
+    Ultimate: false
+    Description: 
+        Launch upwards and explode on landing.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: lovers
+    ID: conquerors
+    Name Tornado of Ashes
+    Ultimate: false
+    Description: 
+        Apply heavy debuffs to nearby players.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: lovers
+    ID: tower_flames
+    Name Lover's Blazing Spark
+    Ultimate: false
+    Description: 
+        Damage nearby players with particles.
+    Cooldown: 420000
+===============================
+

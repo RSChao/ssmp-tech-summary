@@ -7,3 +7,41 @@ Group ID: combat_will
         Stops all nearby entities in place for 5 seconds.
     Cooldown: 180000
 ===============================
+=== Technique Summary for group: combat_will ===
+===============================
+Group ID: combat_will
+    ID: combat_will_time_stop
+    Name Combat Will: Time Stop
+    Ultimate: false
+    Description: 
+        Stops all nearby entities in place for 5 seconds.
+    Cooldown: 180000
+===============================
+===============================
+Group ID: combat_will
+    ID: punchy
+    Name One-Punch Aura
+    Ultimate: false
+    Description: 
+        Temporarily set deadly punch flag.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: combat_will
+    ID: deflecty
+    Name Damage Deflect
+    Ultimate: false
+    Description: 
+        Temporarily deflect damage taken.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: combat_will
+    ID: orbital_boom
+    Name Will of Destruction: Orbital Strike
+    Ultimate: true
+    Description: 
+        Calls down an orbital strike on a target location.
+    Cooldown: 360000
+===============================
+

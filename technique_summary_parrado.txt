@@ -7,3 +7,14 @@ Group ID: parrado
         Ultimate: Parrado Spiral
     Cooldown: 3600000
 ===============================
+=== Technique Summary for group: parrado ===
+===============================
+Group ID: parrado
+    ID: parrado_spiral
+    Name Parrado Spiral
+    Ultimate: true
+    Description: 
+        Ultimate: Parrado Spiral
+    Cooldown: 3600000
+===============================
+

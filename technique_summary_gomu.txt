@@ -7,3 +7,14 @@ Group ID: gomu
         Gomu no mi
     Cooldown: 33000
 ===============================
+=== Technique Summary for group: gomu ===
+===============================
+Group ID: gomu
+    ID: gomu_no_mi
+    Name Gomu no mi
+    Ultimate: false
+    Description: 
+        Gomu no mi
+    Cooldown: 33000
+===============================
+

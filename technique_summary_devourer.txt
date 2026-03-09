@@ -7,3 +7,41 @@ Group ID: devourer
         Teleport target repeatedly and apply wither.
     Cooldown: 300000
 ===============================
+=== Technique Summary for group: devourer ===
+===============================
+Group ID: devourer
+    ID: deltateodio
+    Name Nightmare Chains
+    Ultimate: false
+    Description: 
+        Teleport target repeatedly and apply wither.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: devourer
+    ID: lololol
+    Name Chained Explosion
+    Ultimate: false
+    Description: 
+        Debuff nearby players and deal damage later.
+    Cooldown: 3600000
+===============================
+===============================
+Group ID: devourer
+    ID: queputasesesto
+    Name Blade of Chained Jaws
+    Ultimate: false
+    Description: 
+        Temporarily enchant swords.
+    Cooldown: 300000
+===============================
+===============================
+Group ID: devourer
+    ID: void
+    Name Worlds' Last Breath
+    Ultimate: true
+    Description: 
+        Ultimate: complex multi-stage world effect.
+    Cooldown: 10800000
+===============================
+

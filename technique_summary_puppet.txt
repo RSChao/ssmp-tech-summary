@@ -7,3 +7,32 @@ Group ID: puppet
         Teleport and damage a nearby player repeatedly.
     Cooldown: 240000
 ===============================
+=== Technique Summary for group: puppet ===
+===============================
+Group ID: puppet
+    ID: patron_chain
+    Name Patron's Chains
+    Ultimate: false
+    Description: 
+        Teleport and damage a nearby player repeatedly.
+    Cooldown: 240000
+===============================
+===============================
+Group ID: puppet
+    ID: moridodash
+    Name Undead Dash
+    Ultimate: false
+    Description: 
+        Dash and apply wither to nearby entities.
+    Cooldown: 120000
+===============================
+===============================
+Group ID: puppet
+    ID: queputasesesto
+    Name Blade of Maws
+    Ultimate: false
+    Description: 
+        Temporarily enchant swords in inventory.
+    Cooldown: 300000
+===============================
+

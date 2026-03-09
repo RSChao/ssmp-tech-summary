@@ -7,3 +7,50 @@ Group ID: paper
         Paper Spawn
     Cooldown: 60000
 ===============================
+=== Technique Summary for group: paper ===
+===============================
+Group ID: paper
+    ID: paper_spawn
+    Name Paper Spawn
+    Ultimate: false
+    Description: 
+        Paper Spawn
+    Cooldown: 60000
+===============================
+===============================
+Group ID: paper
+    ID: heal_with_paper
+    Name Heal with Paper
+    Ultimate: false
+    Description: 
+        Heal with Paper
+    Cooldown: 180000
+===============================
+===============================
+Group ID: paper
+    ID: paper_armor
+    Name Paper Armor
+    Ultimate: false
+    Description: 
+        Paper Armor
+    Cooldown: 300000
+===============================
+===============================
+Group ID: paper
+    ID: paper_blade
+    Name Paper Blade
+    Ultimate: false
+    Description: 
+        Paper Blade
+    Cooldown: 360000
+===============================
+===============================
+Group ID: paper
+    ID: mayhem_of_paper
+    Name Mayhem of Paper
+    Ultimate: true
+    Description: 
+        Ultimate: Mayhem of Paper
+    Cooldown: 3600000
+===============================
+
